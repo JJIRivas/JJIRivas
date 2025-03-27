@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hey.
 
+Im Juan José Inzunza Rivas (or just Juan, pronounced "Who-ah-n"), 20 year old dude who is currently studying Computer Engineering/Science in the UFRO, Chile.
+
+My main focus as of right now is Java, mainly using IntelliJ.
+
+Cheers.
 <!--
 **JJIRivas/JJIRivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
